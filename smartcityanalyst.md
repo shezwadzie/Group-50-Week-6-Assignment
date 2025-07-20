@@ -17,5 +17,6 @@ Challenge 2: Integration with Legacy Systems
 Implementing AI and IoT technologies in an existing urban infrastructure isn’t straightforward. Barcelona had to overcome significant technical barriers when integrating new AI-powered systems with older traffic control hardware and municipal IT systems. In many cases, outdated traffic lights and communication protocols required upgrades, which increased project costs and implementation timelines. This is a common bottleneck in scaling smart city solutions in developing urban areas.
 
 Conclusion
+
 Barcelona’s AI-IoT smart traffic system showcases the transformative power of technology in urban mobility and environmental sustainability. However, data privacy and system interoperability remain key obstacles that must be continually addressed. Other cities looking to replicate this model must invest in robust cybersecurity and phased infrastructure upgrades to realize similar success.
 
