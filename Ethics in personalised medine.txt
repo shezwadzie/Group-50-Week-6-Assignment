@@ -1,0 +1,13 @@
+Topic: Cancer Genomic Atlas – Bias in AI for Treatment Recommendation
+Deliverable: 300-word ethics analysis
+
+Ethical Implications of AI in Personalized Medicine Using the Cancer Genomic Atlas
+
+AI-powered personalized medicine holds great promise in revolutionizing cancer care by tailoring treatment based on individual genomic profiles. However, the use of datasets such as The Cancer Genomic Atlas (TCGA) raises critical ethical concerns, especially around bias and fairness. One major issue is ethnic underrepresentation. Studies show that TCGA predominantly consists of samples from individuals of European descent, limiting the generalizability of AI models trained on this data to other ethnic groups. This can lead to inequitable treatment recommendations, where minority populations receive less accurate diagnoses or suboptimal treatment plans.
+
+Another bias stems from socioeconomic disparities in healthcare access, which may influence the quality and completeness of patient data included in the dataset. As a result, AI models might not adequately reflect the diverse lived realities of global populations, further reinforcing systemic inequalities.
+
+To address these challenges, fairness strategies are essential. First, we need to expand training datasets by including genomic data from underrepresented populations through global collaboration and targeted research funding. Second, bias detection and mitigation techniques, such as re-weighting or adversarial debiasing, should be integrated into model development pipelines. Additionally, ethical auditing frameworks and regulatory oversight can help ensure transparency and accountability in AI-driven medical tools.
+
+By proactively identifying and addressing bias, we can ensure that the future of personalized medicine is both effective and equitable, empowering all patients—regardless of background—to benefit from AI innovations.
+
