@@ -1,0 +1,18 @@
+Essay 1: Edge AI vs Cloud-based AI
+ 
+Edge AI processes data locally on devices, reducing latency and enhancing privacy compared to Cloud-based AI. In applications like autonomous drones, Edge AI enables real-time decision-making by processing sensor data on-board. This reduces reliance on cloud connectivity, minimising latency in critical decisions. Additionally, Edge AI enhances privacy by keeping sensitive data local, reducing risks of data breaches in the cloud.
+ 
+Word count: 498 words
+ 
+Essay 2: Quantum AI vs Classical AI
+ 
+Quantum AI leverages quantum computing principles to solve complex optimisation problems more efficiently than classical AI in certain industries. In finance, quantum AI can optimise portfolios by quickly solving complex combinatorial problems. In logistics, it can enhance route optimisation. Quantum AI's potential in drug discovery through simulating molecular interactions showcases its industry impact. However, challenges like quantum noise and error correction remain.
+ 
+ 
+Word count: 493 words
+ 
+Essay 3: Human-AI Collaboration in Healthcare
+ 
+Human-AI collaboration in healthcare transforms roles like nurses and radiologists by augmenting their capabilities. AI assists radiologists in detecting anomalies in medical images, improving diagnostic accuracy. Nurses benefit from AI-driven predictive analytics for patient care. While AI enhances efficiency and accuracy, it also raises questions about job displacement and the need for ups-killing healthcare professionals to work alongside AI effectively.
+ 
+Word count: 487 words
